@@ -5,13 +5,9 @@
 ação tomada irá acontecer coisas diferentes levando você para outro lugar
 
 ## Imagens
-<table>
-  <tr>
-    <td>Mensagem caso tome uma decisão que perca o jogo</td>
-    <td>Mensagem ao ganhar o jogo</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="./images/treasure-gameover.png"></td>
-    <td valign="top"><img src="./images/treasure-win.png"></td>
-  </tr>
-</table>
+### Mensagem caso tome uma decisão que perca o jogo
+<td valign="top"><img src="./images/treasure-gameover.png">
+
+
+### Mensagem ao ganhar o jogo
+<td valign="top"><img src="./images/treasure-win.png">
