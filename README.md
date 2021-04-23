@@ -11,13 +11,13 @@ Aqui será colocado os projetos simples desenvolvidos em Python
 
 ## FAQ
 #### O que é esse repositório?
-Esse repositório será onde irei colocar meus projetos em Python que eu considere "simples"
+R: Esse repositório será onde irei colocar meus projetos em Python que eu considere "simples"
 
 #### O que é um projeto simples?
-Eu considero projetos simples aqueles projetos rápidos, onde não demanda muito tempo e geralmente são poucas linhas
+R: Eu considero projetos simples aqueles projetos rápidos, onde não demanda muito tempo e geralmente são poucas linhas
 
 #### Será apenas em Python?
-Sim, no momento apenas em Python. Projetos de outras linguagens, mesmo que simples e rápido, será colocado em outro repositório.
+R: Sim, no momento apenas em Python. Projetos de outras linguagens, mesmo que simples e rápido, será colocado em outro repositório.
 
 #### Como vou saber como é o projeto?
-Em todos os projetos terá um README.md com detalhes e imagens sobre cada projeto!
+R: Em todos os projetos terá um README.md com detalhes e imagens sobre cada projeto!
