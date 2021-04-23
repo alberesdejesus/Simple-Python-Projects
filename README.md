@@ -10,14 +10,14 @@ Aqui será colocado os projetos simples desenvolvidos em Python
 * **Caesar Cipher >** A famosa cifra de Cesar, neste projeto você pode cifrar suas mensagens com a cifra de Cesar.
 
 ## FAQ
-##### O que é esse repositório?
+#### O que é esse repositório?
 Esse repositório será onde irei colocar meus projetos em Python que eu considere "simples"
 
-##### O que é um projeto simples?
+#### O que é um projeto simples?
 Eu considero projetos simples aqueles projetos rápidos, onde não demanda muito tempo e geralmente são poucas linhas
 
-##### Será apenas em Python?
+#### Será apenas em Python?
 Sim, no momento apenas em Python. Projetos de outras linguagens, mesmo que simples e rápido, será colocado em outro repositório.
 
-##### Como vou saber como é o projeto?
+#### Como vou saber como é o projeto?
 Em todos os projetos terá um README.md com detalhes e imagens sobre cada projeto!
