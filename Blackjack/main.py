@@ -1,6 +1,5 @@
 # Blackjack
 
-from replit import clear
 from art import logo
 import random
 
@@ -79,7 +78,6 @@ def play_game():
 should_continue = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ").lower()
 
 while should_continue == "y":
-    clear()
     play_game()
 else: 
     print("Thank you for playing!!")
