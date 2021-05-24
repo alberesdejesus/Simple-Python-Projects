@@ -1,6 +1,5 @@
 from art import logo, vs
 from game_data import data
-from replit import clear
 import random
 
 
@@ -50,7 +49,6 @@ def game():
         is_correct = check_answer(player_choice, a_follower_count,
                                   b_follower_count)
 
-        clear()
         print(logo)
         if is_correct:
             score += 1
