@@ -15,7 +15,7 @@ escolher qual possui mais seguidores no Instagram! Caso acertar soma um ponto, c
     <td>Caso erre a resposta</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./images/got.jpeg" height="600"></td>
-    <td valign="top"><img src="./images/lose.jpeg" height="600"></td>
+    <td valign="top"><img src="./images/got.png" height="600"></td>
+    <td valign="top"><img src="./images/lose.png" height="600"></td>
   </tr>
  </table>
