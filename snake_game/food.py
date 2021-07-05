@@ -1,4 +1,5 @@
 from turtle import Turtle
+import scoreboard
 import random
 
 
