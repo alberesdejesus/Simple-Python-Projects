@@ -14,6 +14,9 @@ Aqui será colocado os projetos simples desenvolvidos em Python
 * **Password Generator >** É um gerador simples de senhas, onde você define quantas letras, números ou caractere especial você quer;
 * **Rock, Paper or Scissors >** Também conhecido como "Jokenpo", nesse jogo é você contra a máquina;
 * **Treasure Island >** É um joguinho estilo "Escolha sua aventura", onde o jogador decide qual ação tomar e isso leva ele a uma outra parte do jogo;
+* **Turtle Crossing >** É um jogo similar ao Crossy Road, onde você tem que chegar ao outro lado com o seu personagem;
+* **Pong >** Um dos primeiros jogos do Atari;
+* **Snake Game >** O famoso jogo da Cobrinha, feito em Python;
 
 
 
